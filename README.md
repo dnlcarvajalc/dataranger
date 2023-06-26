@@ -1,4 +1,4 @@
-#Capítulo de Data, DataRangers
+# Capítulo de Data, DataRangers
 
 - data_rangers.ipynb es un archivo diseñado para ejecutarse en la herramienta de Google Colab.
 
